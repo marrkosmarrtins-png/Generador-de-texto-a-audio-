@@ -1,0 +1,8 @@
+{
+  "name": "Generador de Texto a Audio",
+  "description": "Convierte texto a audio utilizando las voces oficiales de Gemini TTS como Puck, Kore, Schedar y más. Guarda tu API Key localmente para generar contenido de forma autónoma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
